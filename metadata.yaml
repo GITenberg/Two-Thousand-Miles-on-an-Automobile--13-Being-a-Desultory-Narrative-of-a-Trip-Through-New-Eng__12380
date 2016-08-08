@@ -1,0 +1,30 @@
+_repo: Two-Thousand-Miles-on-an-Automobile--13-Being-a-Desultory-Narrative-of-a-Trip-Through-New-Eng__12380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eddy, Arthur Jerome
+    alias: Chauffeur
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '3246'
+    url: http://www.gutenberg.org/2009/agents/3246
+description: ''
+gutenberg_bookshelf: Transportation
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Eddy, Arthur Jerome, 1859-1920 -- Travel -- United States'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcsh 'Automobile travel -- United States -- History -- 20th century'
+- GITenberg
+title: "Two Thousand Miles on an Automobile\r\nBeing a Desultory Narrative of a Trip\
+  \ Through New England, New York, Canada, and the West, By \"Chauffeur\""
+url: http://www.gutenberg.org/ebooks/12380
